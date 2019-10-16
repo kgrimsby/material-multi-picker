@@ -1,6 +1,6 @@
 {
   "name": "material-multi-picker-custom-gc",
-  "version": "2.3.2",
+  "version": "2.3.3",
   "description": "Material-multi-picker fork",
   "main": "lib/index.js",
   "files": [
