@@ -1,14 +1,14 @@
 {
-  "name": "material-multi-picker",
-  "version": "2.2.0",
-  "description": "A typeahead multiselect component for React and Material UI",
+  "name": "material-multi-picker-custom-gc",
+  "version": "2.3.2",
+  "description": "Material-multi-picker fork",
   "main": "lib/index.js",
   "files": [
     "/lib"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/atropos-tech/material-multi-picker"
+    "url": "https://github.com/kgrimsby/material-multi-picker"
   },
   "homepage": "https://atropos-tech.github.io/material-multi-picker/index.html",
   "bugs": {
