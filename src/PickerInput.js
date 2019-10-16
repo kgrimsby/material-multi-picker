@@ -10,21 +10,21 @@ const styles = theme => ({
     InputRoot: {
         display: "flex",
         flexWrap: "wrap",
-        padding: `${ theme.spacing.unit * ONE_HALF }px 0`,
+        padding: `${ theme.spacing(ONE_HALF) }px 0`,
         boxSizing: "border-box"
     },
     InputLabelRoot: {
-        top: theme.spacing.unit
+        top: theme.spacing()
     },
     InputLabelFilled: {
-        top: theme.spacing.unit * 2
+        top: theme.spacing(2)
     },
     InputLabelShrink: {
         top: 0
     },
     inputRoot: {
         flex: "1 1 auto",
-        marginTop: theme.spacing.unit * ONE_QUARTER,
+        marginTop: theme.spacing(ONE_QUARTER),
         minWidth: "200px",
         width: "auto"
     }
